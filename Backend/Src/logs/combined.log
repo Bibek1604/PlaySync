@@ -1,0 +1,29 @@
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-11-16 07:14:40"}
+{"level":"info","message":"Docs: http://localhost:3000/docs","timestamp":"2025-11-16 07:14:40"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-11-16 07:15:57"}
+{"level":"info","message":"Docs: http://localhost:3000/docs","timestamp":"2025-11-16 07:15:57"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-11-16 07:16:07"}
+{"level":"info","message":"Docs: http://localhost:3000/docs","timestamp":"2025-11-16 07:16:07"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-11-16 07:16:10"}
+{"level":"info","message":"Docs: http://localhost:3000/docs","timestamp":"2025-11-16 07:16:10"}
+{"level":"info","message":"::1 - - [16/Nov/2025:01:31:25 +0000] \"GET /docs HTTP/1.1\" - - \"-\" \"Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.7019\"","timestamp":"2025-11-16 07:16:25"}
+{"level":"info","message":"::1 - - [16/Nov/2025:01:31:29 +0000] \"GET /docs HTTP/1.1\" - - \"-\" \"Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.7019\"","timestamp":"2025-11-16 07:16:29"}
+{"error":{},"level":"error","message":"UNHANDLED ERROR","method":"GET","path":"/docs","timestamp":"2025-11-16 07:16:53"}
+{"error":{},"level":"error","message":"UNHANDLED ERROR","method":"GET","path":"/docs","timestamp":"2025-11-16 07:16:53"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-11-16 07:17:07"}
+{"level":"info","message":"Docs: http://localhost:3000/docs","timestamp":"2025-11-16 07:17:07"}
+{"level":"warn","message":"REDIS_URL not set or looks like a placeholder — using in-memory rate limiter.","timestamp":"2025-11-16 07:18:26"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-11-16 07:18:26"}
+{"level":"info","message":"Docs: http://localhost:3000/docs","timestamp":"2025-11-16 07:18:26"}
+{"level":"warn","message":"REDIS_URL not set or looks like a placeholder — using in-memory rate limiter.","timestamp":"2025-11-16 07:18:35"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-11-16 07:18:35"}
+{"level":"info","message":"Docs: http://localhost:3000/docs","timestamp":"2025-11-16 07:18:35"}
+{"level":"warn","message":"REDIS_URL not set or looks like a placeholder — using in-memory rate limiter.","timestamp":"2025-11-16 07:19:00"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-11-16 07:19:00"}
+{"level":"info","message":"Docs: http://localhost:3000/docs","timestamp":"2025-11-16 07:19:00"}
+{"level":"warn","message":"REDIS_URL not set or looks like a placeholder — using in-memory rate limiter.","timestamp":"2025-11-16 07:19:47"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-11-16 07:19:47"}
+{"level":"info","message":"Docs: http://localhost:3000/docs","timestamp":"2025-11-16 07:19:47"}
+{"level":"warn","message":"REDIS_URL not set or looks like a placeholder — using in-memory rate limiter.","timestamp":"2025-11-16 07:48:59"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-11-16 07:49:00"}
+{"level":"info","message":"Docs: http://localhost:3000/docs","timestamp":"2025-11-16 07:49:00"}
